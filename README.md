@@ -177,7 +177,7 @@ The professionals who will dominate the AI-augmented economy aren't waiting for 
 
 ## Resources
 
-- [Link to original concept discussion]
+**Original Video:** [AI's Biggest Flaws Are Your Greatest Opportunity](https://www.youtube.com/watch?v=41pIV7l4iuk) by Small Business Growth
 - [Further reading on technology adoption curves]
 - [Case studies of early-mover advantage]
 
